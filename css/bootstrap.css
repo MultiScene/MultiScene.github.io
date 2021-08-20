@@ -348,6 +348,16 @@ img {
   max-width: 100%;
 }
 
+.img-left {
+  display: block;
+  text-align: left;
+}
+
+.img-right {
+  display: block;
+  text-align: right;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
